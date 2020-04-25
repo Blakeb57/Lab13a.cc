@@ -5,7 +5,7 @@
 3. ...
 4. programmed
 5.
-    a. implementation file
+    a. interface file
     b. interface file
     c. interface file
     d. application file
