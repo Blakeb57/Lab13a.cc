@@ -1,0 +1,16 @@
+// Blake Boehringer
+
+1. The error was casued by inconsistent passing of constant values.
+2. In order to correct this problem you have to add const to the end of both the definition of get int and the declaration.
+3. ...
+4. programmed
+5.
+    a. implementation file
+    b. interface file
+    c. interface file
+    d. application file
+    e. implementation file
+    f. implementation file
+    g. implementation file
+    h. application file
+6. my_int.of
